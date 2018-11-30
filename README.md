@@ -1,3 +1,9 @@
+# what is this
+
+goal: try to replicate the results of a RL agent playing break-out
+
+see here for info/context: https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning/
+
 # instructions
 
 this project provides 3 way to play the breakout game:
