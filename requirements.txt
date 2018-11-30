@@ -33,7 +33,7 @@ PyOpenGL==3.1.0
 python-utils==2.3.0
 PyYAML==3.13
 req==1.0.0
-requests==2.19.1
+requests>=2.20.0
 scipy==1.1.0
 simplegeneric==0.8.1
 six==1.11.0
